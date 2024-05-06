@@ -2,7 +2,7 @@ struct Node
  {
      int data;
      Node* left, *right;
-}; */
+}; 
 
 
  void solve(Node *node,vector<int>&v )
