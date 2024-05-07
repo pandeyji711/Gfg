@@ -3,7 +3,7 @@ struct Node
     int data;
     Node* left;
     Node* right;
-}; */
+}; 
   void solve(Node *root,int level,map<int,vector<int>>&m)
   {
       if (root==nullptr)
